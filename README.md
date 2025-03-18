@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/155ef099-8a35-4c17-b08d-b5560f542a30)# JNE Delivery Route Optimizer Using Simulated Annealing
+# JNE Delivery Route Optimizer Using Simulated Annealing
 
 ## Description
 Our project is a web application for optimizing JNE delivery routes carried out by couriers using the Simulated Annealing algorithm. Delivery routes are limited to the Surabaya area. This web application is designed to help users (especially business people or goods sorting centers) who have difficulty arranging delivery routes by couriers, especially in the delivery services sector, to find the most efficient route. With this web application, users can select the number of destinations and locations they want to visit, then the application will calculate the best route that is most efficient and optimal to save travel time and also reduce operational costs.
